@@ -1,0 +1,6 @@
+And I was thinking to myself
+0 1 3 6 10 15
+7 4294967127
+3045 5
+2 8 52
+1 2 4 5 3 6
